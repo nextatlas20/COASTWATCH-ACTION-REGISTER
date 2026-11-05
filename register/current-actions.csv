@@ -1,0 +1,4 @@
+trail_sequence,trail_id,trail_name,action_id,opened_by,last_event,instruction
+20,TR-C,Cedar Estuary,AC-201,EV-201,EV-202,Clear driftwood and inspect hinge
+20,TR-C,Cedar Estuary,AC-202,EV-204,EV-204,Post tide chart at kiosk
+40,TR-M,Marsh Loop,AC-302,EV-217,EV-217,Reset south entrance bollard
