@@ -1,0 +1,25 @@
+event_id	trail_id	observed_at	action_id	kind	instruction
+EV-104	TR-N	2026-09-18T09:30:00Z	AC-101	UPDATE	Install two reflective bands
+EV-101	TR-N	2026-09-18T09:00:00Z	AC-101	OPEN	Place caution marker at washout
+EV-102	TR-N	2026-09-18T10:00:00Z	AC-101	UPDATE	Replace marker with rope barrier
+EV-103	TR-N	2026-09-18T11:00:00Z	AC-101	CLOSE	
+EV-105	TR-N	2026-09-18T12:00:00Z	AC-101	UPDATE	Reopen rope barrier task
+EV-201	TR-C	2026-09-18T08:00:00Z	AC-201	OPEN	Clear driftwood from east gate
+EV-202	TR-C	2026-09-18T08:00:00Z	AC-201	UPDATE	Clear driftwood and inspect hinge
+EV-203	TR-C	2026-09-18T09:00:00Z	AC-202	CLOSE	
+EV-204	TR-C	2026-09-18T10:00:00Z	AC-202	OPEN	Post tide chart at kiosk
+EV-205	TR-B	2026-09-18T10:30:00Z	AC-401	OPEN	Sweep lower landing
+EV-206	TR-C	2026-09-18T10:45:00Z	AC-203
+XX-207	TR-C	2026-09-18T11:00:00Z	AC-203	OPEN	Refill map box
+EV-208	TR-X	2026-09-18T11:15:00Z	AC-203	OPEN	Refill map box
+EV-209	TR-C	2026-02-30T11:30:00Z	AC-203	OPEN	Refill map box
+EV-210	TR-C	2026-09-18T11:45:00Z	ACTION-3	OPEN	Refill map box
+EV-211	TR-C	2026-09-18T12:00:00Z	AC-203	START	Refill map box
+EV-218	TR-C	2026-09-18T12:15:00Z	AC-203	CLOSE	unexpected note
+EV-212	TR-C	2026-09-18T12:30:00Z	AC-203	OPEN	Refill map box
+EV-212	TR-C	2026-09-18T12:45:00Z	AC-204	OPEN	Clean viewing scope
+EV-213	TR-M	2026-09-18T10:00:00Z	AC-301	OPEN	Remove storm litter from boardwalk
+EV-214	TR-M	2026-09-18T10:00:00Z	AC-301	UPDATE	Remove litter and check loose boards
+EV-215	TR-M	2026-09-18T11:30:00Z	AC-301	OPEN	Second boardwalk inspection
+EV-216	TR-M	2026-09-18T12:00:00Z	AC-301	CLOSE	
+EV-217	TR-M	2026-09-18T13:00:00Z	AC-302	OPEN	Reset south entrance bollard
