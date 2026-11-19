@@ -1,0 +1,12 @@
+replay_order,event_id,trail_id,action_id,kind,resulting_instruction,resulting_state
+1,EV-201,TR-C,AC-201,OPEN,Clear driftwood from east gate,OPEN
+2,EV-202,TR-C,AC-201,UPDATE,Clear driftwood and inspect hinge,OPEN
+3,EV-101,TR-N,AC-101,OPEN,Place caution marker at washout,OPEN
+4,EV-104,TR-N,AC-101,UPDATE,Install two reflective bands,OPEN
+5,EV-102,TR-N,AC-101,UPDATE,Replace marker with rope barrier,OPEN
+6,EV-204,TR-C,AC-202,OPEN,Post tide chart at kiosk,OPEN
+7,EV-213,TR-M,AC-301,OPEN,Remove storm litter from boardwalk,OPEN
+8,EV-214,TR-M,AC-301,UPDATE,Remove litter and check loose boards,OPEN
+9,EV-103,TR-N,AC-101,CLOSE,Replace marker with rope barrier,CLOSED
+10,EV-216,TR-M,AC-301,CLOSE,Remove litter and check loose boards,CLOSED
+11,EV-217,TR-M,AC-302,OPEN,Reset south entrance bollard,OPEN
